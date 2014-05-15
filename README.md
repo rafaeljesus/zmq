@@ -1,4 +1,5 @@
-# [ØMQ - Zero Message Queue by Example]
+ØMQ - Zero Message Queue example
+=================================
 
 Here I show how some code example of this robust messaging service,
 
