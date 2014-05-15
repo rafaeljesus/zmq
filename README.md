@@ -6,7 +6,7 @@ Here I show how some code example of this robust messaging service,
 We’ll explore powerful messaging patterns like publish/subscribe, request/response, and push/pull.
 
 Install ØMQ
-============
+------------
 
 ```
 $ brew install zmq
